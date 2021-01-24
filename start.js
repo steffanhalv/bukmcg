@@ -1,7 +1,7 @@
 // java -Xmx1024M -Xms1024M -jar server.jar nogui
 const { spawn  } = require('child_process');
 
-const child = spawn('java', ['-Xmx1024M', '-jar', 'server.jar', 'nogui']);
+const child = spawn('java', ['-Xmx1G', '-Xmx1G', '-jar', 'mcserver.jar', 'nogui']);
 
 // use child.stdout.setEncoding('utf8'); if you want text chunks
 child.stdout.on('data', (chunk) => {
