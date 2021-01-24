@@ -1,30 +1,16 @@
-[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:51:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:51:55] [Server thread/INFO]: Loading properties
-[15:51:55] [Server thread/INFO]: Default game type: SURVIVAL
-[15:51:55] [Server thread/INFO]: Generating keypair
-[15:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:51:56] [Server thread/INFO]: Using default channel type
-[15:51:56] [Server thread/INFO]: Preparing level "world"
-[15:51:56] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:52:01] [Server thread/INFO]: Loaded 6 recipes
-[15:52:01] [Server thread/INFO]: Loaded 825 advancements
-[15:52:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:52:02] [Server thread/INFO]: Preparing spawn area: 0%
-[15:52:02] [Server thread/INFO]: Preparing spawn area: 0%
-[15:52:04] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[15:52:04] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:52:04] [Server-Worker-5/INFO]: Preparing spawn area: 83%
-[15:52:04] [Server-Worker-2/INFO]: Preparing spawn area: 83%
-[15:52:04] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[15:52:05] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[15:52:05] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[15:52:06] [Server-Worker-6/INFO]: Preparing spawn area: 84%
-[15:52:06] [Server-Worker-3/INFO]: Preparing spawn area: 88%
-[15:52:07] [Server-Worker-4/INFO]: Preparing spawn area: 95%
-[15:52:07] [Server thread/INFO]: Time elapsed: 5806 ms
-[15:52:07] [Server thread/INFO]: Done (11.256s)! For help, type "help"
+[00:17:04] [User Authenticator #16/INFO]: UUID of player sanderr090909 is 32c4aa46-19c9-433c-ad04-d276cf0e4963
+[00:17:04] [Server thread/INFO]: sanderr090909[/195.204.130.158:52310] logged in with entity id 1152 at (-2619.5, 78.0, 912.5)
+[00:17:04] [Server thread/INFO]: sanderr090909 joined the game
+[00:19:52] [Server thread/INFO]: sanderr090909 has made the advancement [Hot Stuff]
+[00:45:44] [Server thread/WARN]: sanderr090909 moved too quickly! -9.353764942723046,0.19352529374937433,3.5363394829616936
+[00:50:48] [Server thread/WARN]: sanderr090909 moved too quickly! 7.732720352211345,0.0,6.909130322054352
+[00:50:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5341ms or 106 ticks behind
+[00:51:49] [Server thread/INFO]: sanderr090909 lost connection: Disconnected
+[00:51:49] [Server thread/INFO]: sanderr090909 left the game
+[11:51:38] [User Authenticator #17/INFO]: UUID of player MegaBoffel is f9e81301-2e3f-4bfb-a9f0-f3393543535a
+[11:51:38] [Server thread/INFO]: MegaBoffel[/79.160.177.232:57608] logged in with entity id 1996 at (-2851.508069985069, 101.23451516959196, 745.357953456478)
+[11:51:38] [Server thread/INFO]: <ADMIN>MegaBoffel joined the game
+[11:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[12:05:50] [Server thread/WARN]: MegaBoffel moved too quickly! 10.816582161700353,0.0,-1.2509680141630497
+[12:08:56] [Server thread/INFO]: MegaBoffel lost connection: Disconnected
+[12:08:56] [Server thread/INFO]: <ADMIN>MegaBoffel left the game

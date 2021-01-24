@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "f9e81301-2e3f-4bfb-a9f0-f3393543535a",
+    "name": "MegaBoffel",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "16779ccc-520e-4e4e-b63b-cd772c5e4e57",
+    "name": "adrian10101",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
