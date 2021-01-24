@@ -1,0 +1,30 @@
+[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:51:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:51:55] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:51:55] [Server thread/INFO]: Loading properties
+[15:51:55] [Server thread/INFO]: Default game type: SURVIVAL
+[15:51:55] [Server thread/INFO]: Generating keypair
+[15:51:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:51:56] [Server thread/INFO]: Using default channel type
+[15:51:56] [Server thread/INFO]: Preparing level "world"
+[15:51:56] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:52:01] [Server thread/INFO]: Loaded 6 recipes
+[15:52:01] [Server thread/INFO]: Loaded 825 advancements
+[15:52:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:52:02] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:02] [Server thread/INFO]: Preparing spawn area: 0%
+[15:52:04] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[15:52:04] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:52:04] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[15:52:04] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[15:52:04] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[15:52:05] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[15:52:05] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[15:52:06] [Server-Worker-6/INFO]: Preparing spawn area: 84%
+[15:52:06] [Server-Worker-3/INFO]: Preparing spawn area: 88%
+[15:52:07] [Server-Worker-4/INFO]: Preparing spawn area: 95%
+[15:52:07] [Server thread/INFO]: Time elapsed: 5806 ms
+[15:52:07] [Server thread/INFO]: Done (11.256s)! For help, type "help"
