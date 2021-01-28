@@ -1,6 +1,48 @@
-[00:00:01] [Server thread/INFO]: <Mr_monfisto1> you can sleep
-[00:00:10] [Server thread/INFO]: <<ADMIN>MegaBoffel> Ok, cya :)
-[00:00:14] [Server thread/INFO]: <Mr_monfisto1> cy
-[00:00:16] [Server thread/INFO]: <Mr_monfisto1> a
-[00:00:21] [Server thread/INFO]: MegaBoffel lost connection: Disconnected
-[00:00:21] [Server thread/INFO]: <ADMIN>MegaBoffel left the game
+[13:58:51] [User Authenticator #11/INFO]: UUID of player Madryan2k is 8d3ff17e-f326-41fa-bcdc-112608a07eef
+[13:58:51] [Server thread/INFO]: Madryan2k[/51.174.176.157:60312] logged in with entity id 31296 at (-2393.955460528962, 64.0, 920.1780567766511)
+[13:58:51] [Server thread/INFO]: Madryan2k joined the game
+[14:00:36] [Server thread/INFO]: Madryan2k lost connection: Timed out
+[14:00:36] [Server thread/INFO]: Madryan2k left the game
+[14:09:40] [User Authenticator #12/INFO]: UUID of player Madryan2k is 8d3ff17e-f326-41fa-bcdc-112608a07eef
+[14:09:40] [Server thread/INFO]: Madryan2k[/51.174.176.157:49797] logged in with entity id 31481 at (-2360.8974500110376, 64.2481847920858, 945.7046994579413)
+[14:09:40] [Server thread/INFO]: Madryan2k joined the game
+[14:58:27] [Server thread/WARN]: Madryan2k moved too quickly! -9.433331304036074,3.8834185549727067,-1.4621582449356083
+[15:03:27] [Server thread/WARN]: Madryan2k moved too quickly! -8.362769825855594,-6.375000253319527,-0.6046881855916126
+[15:08:27] [Server thread/WARN]: Madryan2k moved too quickly! -10.076937385074416,0.0,-1.2626655292042415
+[15:21:22] [Server thread/INFO]: Madryan2k lost connection: Disconnected
+[15:21:22] [Server thread/INFO]: Madryan2k left the game
+[16:06:03] [User Authenticator #13/INFO]: UUID of player evieeid is b808ba38-1d4f-4c96-91a1-47d0f8f9af6a
+[16:06:03] [Server thread/INFO]: evieeid[/51.174.113.250:50183] logged in with entity id 36298 at (-2627.5, 78.0, 900.5)
+[16:06:03] [Server thread/INFO]: evieeid joined the game
+[16:07:47] [Server thread/INFO]: evieeid lost connection: Disconnected
+[16:07:47] [Server thread/INFO]: evieeid left the game
+[18:24:28] [User Authenticator #14/INFO]: UUID of player adrian10101 is 16779ccc-520e-4e4e-b63b-cd772c5e4e57
+[18:24:28] [Server thread/INFO]: adrian10101[/51.174.141.30:49453] logged in with entity id 37416 at (-2511.2773165987433, 119.29290751072477, 957.2448786874755)
+[18:24:28] [Server thread/INFO]: <ADMIN>adrian10101 joined the game
+[18:30:35] [User Authenticator #15/INFO]: UUID of player evieeid is b808ba38-1d4f-4c96-91a1-47d0f8f9af6a
+[18:30:35] [Server thread/INFO]: evieeid[/51.174.113.250:51229] logged in with entity id 38642 at (-2700.5962805847857, 78.58485182470906, 809.1425213337048)
+[18:30:35] [Server thread/INFO]: evieeid joined the game
+[18:30:53] [Server thread/INFO]: <evieeid> hei adrian, tangen?
+[18:31:08] [Server thread/INFO]: <<ADMIN>adrian10101> nei, boek
+[18:31:16] [Server thread/INFO]: <evieeid> Ahhh ok
+[18:35:53] [Server thread/INFO]: adrian10101 lost connection: Disconnected
+[18:35:53] [Server thread/INFO]: <ADMIN>adrian10101 left the game
+[18:36:36] [Server thread/INFO]: evieeid lost connection: Timed out
+[18:36:36] [Server thread/INFO]: evieeid left the game
+[18:37:54] [User Authenticator #16/INFO]: UUID of player Mr_monfisto1 is 383eb8b2-2829-4391-9a9a-e64781232ecc
+[18:37:54] [Server thread/INFO]: Mr_monfisto1[/51.174.141.30:53812] logged in with entity id 39820 at (-2547.2163791544326, 79.0625, 1314.1454434683753)
+[18:37:54] [Server thread/INFO]: Mr_monfisto1 joined the game
+[18:51:08] [User Authenticator #17/INFO]: UUID of player adrian10101 is 16779ccc-520e-4e4e-b63b-cd772c5e4e57
+[18:51:08] [Server thread/INFO]: adrian10101[/51.174.141.30:50008] logged in with entity id 40745 at (-2516.173992277675, 93.98578821500249, 1288.5067857478828)
+[18:51:08] [Server thread/INFO]: <ADMIN>adrian10101 joined the game
+[18:53:26] [Server thread/WARN]: adrian10101 moved too quickly! 0.33023772044543875,0.0,-10.880662120553552
+[18:58:27] [Server thread/WARN]: Mr_monfisto1 moved too quickly! -8.442806246119744,0.0,5.901974745073176
+[18:58:44] [Server thread/INFO]: Mr_monfisto1 lost connection: Disconnected
+[18:58:44] [Server thread/INFO]: Mr_monfisto1 left the game
+[20:05:05] [Server thread/INFO]: adrian10101 lost connection: Disconnected
+[20:05:05] [Server thread/INFO]: <ADMIN>adrian10101 left the game
+[20:48:42] [User Authenticator #18/INFO]: UUID of player Th0mas1908 is 46b6222c-1364-4392-b615-da6abcf94389
+[20:48:42] [Server thread/INFO]: Th0mas1908[/51.174.178.182:50362] logged in with entity id 45166 at (-2207.48615735354, 61.35772849247495, 1438.9660381818205)
+[20:48:42] [Server thread/INFO]: Th0mas1908 joined the game
+[21:44:53] [Server thread/INFO]: Th0mas1908 lost connection: Disconnected
+[21:44:53] [Server thread/INFO]: Th0mas1908 left the game
